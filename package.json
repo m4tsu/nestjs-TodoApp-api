@@ -69,6 +69,7 @@
     "eslint": "^7.22.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-prettier": "^3.3.1",
+    "heroku": "^7.51.0",
     "husky": "^4.3.8",
     "jest": "^26.6.3",
     "prettier": "^2.2.1",
