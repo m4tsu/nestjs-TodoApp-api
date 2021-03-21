@@ -1,8 +1,11 @@
-# タスク管理アプリ API by Nest.js
+# Nest.js TodoApp Api
 
-## 参考させていただいたもの
+## 参考にさせていただいたもの
 
-全般 https://dev.to/darioielardi/how-to-build-a-twitter-clone-with-nestjs-prisma-and-react-part-1-lgd
+全般
+https://docs.nestjs.com/
+https://www.prisma.io/
+https://dev.to/darioielardi/how-to-build-a-twitter-clone-with-nestjs-prisma-and-react-part-1-lgd
 
 ### 認証周り
 
